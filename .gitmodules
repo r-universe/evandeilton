@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "gkwdist"]
+	path = gkwdist
+	url = https://github.com/evandeilton/gkwdist
 [submodule "gkwreg"]
 	path = gkwreg
 	url = https://github.com/evandeilton/gkwreg
