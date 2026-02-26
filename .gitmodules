@@ -5,6 +5,9 @@
 [submodule "OptimalBinningWoE"]
 	path = OptimalBinningWoE
 	url = https://github.com/evandeilton/optimalbinningwoe
+[submodule "betaregscale"]
+	path = betaregscale
+	url = https://github.com/evandeilton/betaregscale
 [submodule "gkwdist"]
 	path = gkwdist
 	url = https://github.com/evandeilton/gkwdist
