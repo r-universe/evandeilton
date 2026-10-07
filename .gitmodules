@@ -14,3 +14,6 @@
 [submodule "gkwreg"]
 	path = gkwreg
 	url = https://github.com/evandeilton/gkwreg
+[submodule "scorecraft"]
+	path = scorecraft
+	url = https://github.com/evandeilton/scorecraft
